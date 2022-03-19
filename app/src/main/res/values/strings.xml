@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">App 1</string>
+    <string name="second_str">App 1</string>
 </resources>
